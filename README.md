@@ -51,7 +51,7 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-qureshi-268884293)  
-📬 Email: **amanq692@gmail.com**
+📬 Email: **amanitpro343@gmail.com**
 
 ---
 
