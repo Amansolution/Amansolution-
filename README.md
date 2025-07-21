@@ -9,7 +9,7 @@
 - 🔭 Currently working on **Linux Projects, AWS EC2/S3/RDS Setup, and Backup Scripting**
 - 🧠 Learning **Advanced Shell Scripting, Monitoring, and Windows Server Admin**
 - 💬 Ask me about **Linux (RHEL & Ubuntu), AWS (EC2, S3, RDS, IAM), Windows IT Admin**
-- 📫 Email: **amanq692@gmail.com**
+- 📫 Email: **amanitpro343@gmail.com**
 - 💡 Motto: _"Automate the boring stuff, focus on learning!"_
 
 ---
